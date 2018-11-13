@@ -1,0 +1,19 @@
+{
+  "name": "native-cli",
+  "version": "0.0.1",
+  "description": "CLI to create and maintain a RN Project that uses the screen - container - presentational architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CLI",
+    "react-native",
+    "container"
+  ],
+  "author": "Rafael Gomes de Magalhães <rafitogm2@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
